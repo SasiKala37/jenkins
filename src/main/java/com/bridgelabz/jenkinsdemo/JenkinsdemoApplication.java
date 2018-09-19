@@ -15,6 +15,6 @@ public class JenkinsdemoApplication {
 
 	@GetMapping("/")
 	public String getMessage() {
-		return "hellooooo... world...jenkinsssssssss";
+		return "hellooooo jenkins welcome to bridgelabz";
 	}
 }
